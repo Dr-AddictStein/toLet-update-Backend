@@ -1,0 +1,142 @@
+[
+  {
+    "userEmail": "user@example.com",
+    "userId": "23423423423423",
+    "flatWishList": [
+      {
+        "userEmail": "user@example.com",
+        "userId": "1234567890",
+        "flatList": {
+          "description": {
+            "type": "Apartment",
+            "bedroom": 2,
+            "bathroom": 1,
+            "size": 1000,
+            "rent": 1000,
+            "availableFrom": "2024-04-01",
+            "location": {
+              "address": "123 Main St",
+              "city": "Example City",
+              "postalCode": "12345"
+            }
+          },
+          "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+          ],
+          "contact_person": {
+            "firstName": "John",
+            "lastName": "Doe",
+            "userCity": "Example City",
+            "userPostalCode": "12345",
+            "phone": "+1234567890"
+          }
+        }
+      },
+      {
+        "userEmail": "user@example.com",
+        "userId": "1234567890",
+        "flatList": {
+          "description": {
+            "type": "Apartment",
+            "bedroom": 2,
+            "bathroom": 1,
+            "size": 1000,
+            "rent": 1000,
+            "availableFrom": "2024-04-01",
+            "location": {
+              "address": "123 Main St",
+              "city": "Example City",
+              "postalCode": "12345"
+            }
+          },
+          "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+          ],
+          "contact_person": {
+            "firstName": "John",
+            "lastName": "Doe",
+            "userCity": "Example City",
+            "userPostalCode": "12345",
+            "phone": "+1234567890"
+          }
+        }
+      }
+    ],
+    "roommateWishList": [
+      {
+        "userEmail": "user@example.com",
+        "userImage": "",
+        "userId": "1234567890",
+        "roomateList": {
+          "description": {
+            "bedroomType": "private",
+            "bathroom": 1,
+            "size": 150,
+            "rent": 150,
+            "availableFrom": "2024-04-01",
+            "location": {
+              "address": "456 Elm St",
+              "city": "Example City",
+              "postalCode": "54321"
+            }
+          },
+          "roomatePreferences": {
+            "gender": "female",
+            "pets": "okay",
+            "smoking": "not okay",
+            "employmentStatus": "working"
+          },
+          "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+          ],
+          "contactPerson": {
+            "userGender": "male",
+            "firstName": "Alex",
+            "lastName": "Smith",
+            "phone": "+1234567890",
+            "userEmploymentStatus": "student"
+          }
+        }
+      },
+      {
+        "userEmail": "user@example.com",
+        "userImage": "",
+        "userId": "1234567890",
+        "roomateList": {
+          "description": {
+            "bedroomType": "private",
+            "bathroom": 1,
+            "size": 150,
+            "rent": 150,
+            "availableFrom": "2024-04-01",
+            "location": {
+              "address": "456 Elm St",
+              "city": "Example City",
+              "postalCode": "54321"
+            }
+          },
+          "roomatePreferences": {
+            "gender": "female",
+            "pets": "okay",
+            "smoking": "not okay",
+            "employmentStatus": "working"
+          },
+          "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+          ],
+          "contactPerson": {
+            "userGender": "male",
+            "firstName": "Alex",
+            "lastName": "Smith",
+            "phone": "+1234567890",
+            "userEmploymentStatus": "student"
+          }
+        }
+      }
+    ]
+  }
+]

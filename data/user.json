@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "6605262992d2cd9e3a7066aa",
+    "firstName": "Mitu",
+    "lastName": "Setu",
+    "email": "aklima@gmail.com",
+    "password": "2222",
+    "user_image": null,
+    "age": "50",
+    "location": { "address": "feni", "city": "Dhaka", "postalCode": "4433" }
+  },
+  {
+    "_id": "66057f8bbe1bea6a7a418d35",
+    "firstName": "Shila",
+    "lastName": "Akter",
+    "email": "aaaklima@gmail.com",
+    "password": "3333",
+    "user_image": null,
+    "age": "23",
+    "location": {
+      "address": "dhaka bangladesh",
+      "city": "Dhaka",
+      "postalCode": "1212"
+    }
+  },
+  {
+    "_id": "66068d7dd65c0528c60ffd4f",
+    "firstName": "Akram",
+    "lastName": "Hossain",
+    "email": "akramjas01834129212@gmail.com",
+    "password": "$2b$10$jurHF2Lj7rggSdj9IMzKhOTjY6MQ98cIuWGzLIQy5mofLFswmX73.",
+    "user_image": "akram-hossain-1711705468997.png",
+    "age": "123",
+    "location": {
+      "address": "বড় মিয়া মসজিদ, বাকালিয়া, চকবাজার, চট্টগ্রাম",
+      "city": "Chittagong",
+      "postalCode": "4203"
+    }
+  }
+]
